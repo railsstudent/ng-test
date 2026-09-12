@@ -2,7 +2,7 @@
   "apphosting": [
     {
       "backendId": "ng-test",
-      "rootDir": "../",
+      "rootDir": "./",
       "ignore": [
         "node_modules",
         ".git",
